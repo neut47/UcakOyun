@@ -1,0 +1,27 @@
+c:\users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\gzlsy\documents\visual studio 2015\Projects\proje2\proje2\obj\Debug\proje2.UcakOyun.resources
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\bin\Debug\proje2.exe.config
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.exe
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.pdb
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\bin\Debug\proje2.exe
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\bin\Debug\proje2.pdb
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.UcakOyun.resources
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\b151210270-proje\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\bin\Debug\proje2.exe.config
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\bin\Debug\proje2.exe
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\bin\Debug\proje2.pdb
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.csprojResolveAssemblyReference.cache
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.UcakOyun.resources
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.csproj.GenerateResource.Cache
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.exe
+C:\Users\gzlsy\Desktop\Okul\2. Dönem\Nesneye Dayalı Programlama\b151210270-proje\proje2\obj\Debug\proje2.pdb
